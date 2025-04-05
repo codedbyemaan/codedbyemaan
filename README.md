@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Emaan! 👋  
+A passionate learner and aspiring Frontend Developer 🌸
 
-<!--
-**codedbyemaan/codedbyemaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Current Focus:
+- Learning HTML, CSS, JavaScript
+- Learning by building mini projects (Calculator, To-do List, Portfolio)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills So Far:
+- HTML 💻
+- CSS 🎨
+- A little JavaScript ✨
+
+## 💡 Goals:
+- Master Frontend Development
+- Work remotely  💛
+- Share my learning journey with the world 🌍
+
+Let's connect and grow together! 🫶
