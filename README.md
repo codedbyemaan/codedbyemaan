@@ -1,19 +1,17 @@
-# Hi, I'm Emaan! 👋  
-A passionate learner and aspiring Frontend Developer 🌸
+Hi, I'm Emaan! 👋  
+A passionate Computer Science student and aspiring Python Developer 🐍
 
-## 🚀 Current Focus:
-- Learning HTML, CSS, JavaScript
-- Learning by building mini projects (Calculator, To-do List, Portfolio)
+🚀 Current Focus:
+Learning Python and Data Structures  
+Building beginner-friendly Python projects (Calculator, Number Guessing Game, File Organizer)
 
+🧠 Skills So Far:
+Python (Basics, Functions, Loops, Lists, Dictionaries)  
+Learning Git & GitHub for version control  
 
-## 🧠 Skills So Far:
-- HTML 💻
-- CSS 🎨
-- A little JavaScript ✨
+💡 Goals:
+Master Python and problem-solving  
+Contribute to open source  
+Use programming to study/work abroad ✈️  
 
-## 💡 Goals:
-- Master Frontend Development
-- Work remotely  💛
-- Share my learning journey with the world 🌍
-
-Let's connect and grow together! 🫶
+Let's connect and grow together! 🌸
